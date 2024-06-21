@@ -1,5 +1,5 @@
 # Sword Man
-APP download link(macOS) : https://drive.google.com/file/d/1GxjfZUfdwm6OGG45vTyJrdEn9fWCKh9J/view?usp=share_link
+Game APP download link(macOS) : https://drive.google.com/file/d/1GxjfZUfdwm6OGG45vTyJrdEn9fWCKh9J/view?usp=share_link
 
 <img width="1440" alt="截圖 2024-06-09 下午6 36 42" src="https://github.com/Huuu0404/sword-man/assets/159526910/18d99897-c4c9-408e-8256-e844213eaebd">
 
